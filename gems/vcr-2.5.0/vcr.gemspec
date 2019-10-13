@@ -35,7 +35,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'excon', '~> 0.22'
 
   s.add_development_dependency 'timecop', '~> 0.3.5'
-  s.add_development_dependency 'rack', '~> 1.3.6'
+  s.add_development_dependency 'rack', '~> 1.6.11'
   s.add_development_dependency 'sinatra', '~> 1.3.2'
   s.add_development_dependency 'multi_json', '~> 1.0.3'
   s.add_development_dependency 'json', '~> 1.6.5'

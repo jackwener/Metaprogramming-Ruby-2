@@ -45,7 +45,7 @@ Gem::Specification.new do |s|
 
   unless RUBY_PLATFORM == 'java'
     s.add_development_dependency 'patron', '~> 0.4.15'
-    s.add_development_dependency 'em-http-request', '~> 1.0.2'
+    s.add_development_dependency 'em-http-request', '~> 1.1.7'
     s.add_development_dependency 'curb', '~> 0.8.0'
     s.add_development_dependency 'yajl-ruby', '~> 1.1.0'
   end
